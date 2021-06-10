@@ -23,15 +23,22 @@ I learned a lot from the open-source community and I love how collaboration and 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/godot/godot.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 
-<img align="right" alt="GIF" src="https://github.com/weekitmo/weekitmo/blob/master/code.gif?raw=true" width="500" height="320" />
+<br />
 
-📈 My GitHub Stats
+<div>📈 My GitHub Stats</div>
 
-<a href="https://github.com/weekitmo/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=weekitmo&show_icons=true&theme=material-palenight" />
-</a>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weekitmo&layout=compact&theme=material-palenight" width="300" height="140" />
 
-<a href="https://github.com/weekitmo/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weekitmo&layout=compact&theme=material-palenight" />
-</a>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=weekitmo&show_icons=true&theme=material-palenight" />
+
+<img align="right" alt="GIF" src="https://github.com/weekitmo/weekitmo/blob/master/code.gif?raw=true" width="400" height="300" />
+
+<br />
+
+<br />
