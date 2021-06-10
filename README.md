@@ -41,7 +41,10 @@ I learned a lot from the open-source community and I love how collaboration and 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=weekitmo&show_icons=true&theme=material-palenight" />
 
-<img align="center" alt="GIF" src="https://github.com/weekitmo/weekitmo/blob/master/code.gif?raw=true" width="500" height="300" />
+<br />
 
 <br />
 
+<img align="center" alt="GIF" src="https://github.com/weekitmo/weekitmo/blob/master/code.gif?raw=true" width="500" height="300" />
+
+<br />
