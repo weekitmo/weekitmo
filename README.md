@@ -8,11 +8,15 @@ Hi, I'm Weekit Mo, a passionate frontEnd web developer from China.
 
 Hi, I'm Weekit Mo, a passionate Full Stack web developer and a freelance software engineer from China.
 
-👨 I’m currently working on ghzs.com.
-🌱 I’m currently learning Flutter in-depth.
-🤔 I’m going to improve Algorithms.
-😜 I'm really interested in Unity3d right now.
-💬 Ask me about anything, I am happy to help.
+- 👨 I’m currently working on ghzs.com.
+
+- 🌱 I’m currently learning Flutter in-depth.
+
+- 🤔 I’m going to improve Algorithms.
+
+- 😜 I'm really interested in Unity3d right now.
+
+- 💬 Ask me about anything, I am happy to help.
 
 I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
@@ -37,8 +41,7 @@ I learned a lot from the open-source community and I love how collaboration and 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=weekitmo&show_icons=true&theme=material-palenight" />
 
-<img align="right" alt="GIF" src="https://github.com/weekitmo/weekitmo/blob/master/code.gif?raw=true" width="400" height="300" />
+<img align="center" alt="GIF" src="https://github.com/weekitmo/weekitmo/blob/master/code.gif?raw=true" width="500" height="300" />
 
 <br />
 
-<br />
