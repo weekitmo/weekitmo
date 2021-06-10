@@ -43,8 +43,6 @@ I learned a lot from the open-source community and I love how collaboration and 
 
 <br />
 
-<br />
-
-<img align="center" alt="GIF" src="https://github.com/weekitmo/weekitmo/blob/master/code.gif?raw=true" width="500" height="300" />
+<img align="center" alt="GIF" style="margin-top: 10px;" src="https://github.com/weekitmo/weekitmo/blob/master/code.gif?raw=true" width="500" height="300" />
 
 <br />
