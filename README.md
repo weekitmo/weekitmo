@@ -37,12 +37,18 @@ I learned a lot from the open-source community and I love how collaboration and 
 
 <div>📈 My GitHub Stats</div>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weekitmo&layout=compact&theme=material-palenight" width="300" height="140" />
+<a href="https://github.com/weekitmo" style="width:100%;display:block;">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weekitmo&layout=compact&theme=material-palenight" />
+</a>
 
+<a href="https://github.com/weekitmo" style="width:100%;display:block;">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=weekitmo&show_icons=true&theme=material-palenight" />
+</a>
 
 <br />
 
-<img align="center" alt="GIF" style="margin-top: 10px;" src="https://github.com/weekitmo/weekitmo/blob/master/code.gif?raw=true" width="500" height="300" />
+<a href="https://github.com/weekitmo" style="width:100%;display:block;margin-top: 10px;">
+<img align="center" alt="GIF" src="https://github.com/weekitmo/weekitmo/blob/master/code.gif?raw=true" width="500" height="300" />
+</a>
 
 <br />
