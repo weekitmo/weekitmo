@@ -1,10 +1,12 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-![](https://visitor-badge.glitch.me/badge?page_id=weekitmo.weekitmo)
+![](https://visitor-badge.glitch.me/badge?page_id=weekitmo.weekitmo) ![](https://img.shields.io/github/last-commit/weekitmo/weekitmo)
 
 <br />
 
 Hi, I'm Weekit Mo, a passionate Full Stack web developer and a freelance software engineer from China.
+
+<img align="right" alt="GIF" src="https://github.com/weekitmo/weekitmo/blob/master/code.gif?raw=true" width="450" height="280" />
 
 - 👨 I’m currently working on ghzs.com.
 
@@ -16,7 +18,7 @@ Hi, I'm Weekit Mo, a passionate Full Stack web developer and a freelance softwar
 
 - 💬 Ask me about anything, I am happy to help.
 
-I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source. [![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:121727393@qq.com)
 
 **Languages and Tools:**
 
@@ -33,19 +35,33 @@ I learned a lot from the open-source community and I love how collaboration and 
 
 <br />
 
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
-<div>📈&nbsp;&nbsp;My GitHub Stats</div>
+
+<div>📈&nbsp;&nbsp;Weekit's GitHub Stats</div>
 
 ---
 
-<center>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weekitmo&layout=compact&theme=material-palenight" height="170px" /><img align="left" src="https://github-readme-stats.vercel.app/api?username=weekitmo&show_icons=true&theme=material-palenight" height="170px" />
-</center>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=weekitmo&layout=compact&theme=material-palenight)
 
-<br /><br /><br /><br /><br /><br /><br /><br />
+![](https://github-readme-stats.vercel.app/api?username=weekitmo&show_icons=true&theme=dracula&hide=stars,issues)
 
-<center>
-<img align="center" alt="GIF" src="https://github.com/weekitmo/weekitmo/blob/master/code.gif?raw=true" width="500" height="300" />
-</center>
+
+<br /><br />
+
+<details>
+  <summary>Expand👆</summary>
+  <pre>
+  🤷‍♂️ dangdang!
+  
+  </pre>
+</details>
+
+
 
 <br />
