@@ -18,7 +18,7 @@ Hi, I'm Weekit Mo, a passionate Full Stack web developer and a freelance softwar
 
 - 💬 Ask me about anything, I am happy to help.
 
-I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source. [![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:121727393@qq.com)
+I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source. [![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:121727393@qq.com)](mailto:121727393@qq.com)
 
 **Languages and Tools:**
 
