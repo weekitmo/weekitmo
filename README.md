@@ -53,15 +53,16 @@ I learned a lot from the open-source community and I love how collaboration and 
 
 ![](https://github-readme-stats.vercel.app/api?username=weekitmo&show_icons=true&theme=dracula&hide=stars,issues)
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=weekitmo)
 
-<br /><br />
 
 <details>
   <summary>Expand👆</summary>
   <pre>
   🤷‍♂️  In my spare time, I also like to watch anime and like to visit Bilibili's website
+  <br />
 
-  ![Dino](https://github.com/weekitmo/weekitmo/blob/master/dino.gif?raw=true)
+  ![Dino](https://gitee.com/powerbyweekit/static-file/raw/master/dragbox.gif)
   </pre>
 </details>
 
