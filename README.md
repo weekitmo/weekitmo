@@ -1,6 +1,5 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Hi, I'm Weekit Mo, a passionate frontEnd web developer from China.
 
 ![](https://visitor-badge.glitch.me/badge?page_id=weekitmo.weekitmo)
 
@@ -35,26 +34,19 @@ I learned a lot from the open-source community and I love how collaboration and 
 
 <br />
 
+
+<div>📈&nbsp;&nbsp;My GitHub Stats</div>
+
 ---
 
-<div>📈 My GitHub Stats</div>
+<center>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weekitmo&layout=compact&theme=material-palenight" height="170px" /><img align="left" src="https://github-readme-stats.vercel.app/api?username=weekitmo&show_icons=true&theme=material-palenight" height="170px" />
+</center>
 
 <br />
 
-<a href="https://github.com/weekitmo" style="width:100%;display:block;">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weekitmo&layout=compact&theme=material-palenight" />
-</a>
-
-<br />
-
-<a href="https://github.com/weekitmo" style="width:100%;display:block;">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=weekitmo&show_icons=true&theme=material-palenight" />
-</a>
-
-<br />
-
-<a href="https://github.com/weekitmo" style="width:100%;display:block;margin-top: 10px;">
+<center>
 <img align="center" alt="GIF" src="https://github.com/weekitmo/weekitmo/blob/master/code.gif?raw=true" width="500" height="300" />
-</a>
+</center>
 
 <br />
