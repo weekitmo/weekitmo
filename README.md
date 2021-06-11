@@ -61,7 +61,7 @@ I learned a lot from the open-source community and I love how collaboration and 
   <pre>
   🤷‍♂️  In my spare time, I also like to watch anime and like to visit Bilibili's website
 
-  ![Dino](https://raw.githubusercontent.com/weekitmo/weekitmo/master/dino.gif)
+  ![Dino](https://github.com/weekitmo/weekitmo/blob/master/dino.gif?raw=true)
   </pre>
 </details>
 
