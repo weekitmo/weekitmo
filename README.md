@@ -57,11 +57,10 @@ I learned a lot from the open-source community and I love how collaboration and 
 <details>
   <summary>Expand👆</summary>
   <pre>
-  🤷‍♂️ dangdang!
-  
+  🤷‍♂️  In my spare time, I also like to watch anime and like to visit Bilibili's website
   </pre>
 </details>
 
-
+![](https://github-profile-trophy.vercel.app/?username=weekitmo&theme=juicyfresh&no-bg=true&no-frame=true&column=4&%22)
 
 <br />
