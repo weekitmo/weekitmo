@@ -1,3 +1,5 @@
+![trending](https://activity-graph.herokuapp.com/graph?username=weekitmo&theme=xcode)
+
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ![](https://visitor-badge.glitch.me/badge?page_id=weekitmo.weekitmo) ![](https://img.shields.io/github/last-commit/weekitmo/weekitmo)
@@ -58,6 +60,8 @@ I learned a lot from the open-source community and I love how collaboration and 
   <summary>Expand👆</summary>
   <pre>
   🤷‍♂️  In my spare time, I also like to watch anime and like to visit Bilibili's website
+
+  ![Dino](https://raw.githubusercontent.com/weekitmo/weekitmo/master/dino.gif)
   </pre>
 </details>
 
