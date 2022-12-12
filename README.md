@@ -1,4 +1,4 @@
-![trending](https://activity-graph.herokuapp.com/graph?username=weekitmo&theme=xcode)
+![Profile Views](https://komarev.com/ghpvc/?username=weekitmo)
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
@@ -14,7 +14,7 @@ Hi, I'm Weekit Mo, a passionate Full Stack web developer and a freelance softwar
 
 - 🌱 I’m currently learning Unity in-depth.
 
-- 😜 I’m currently interest in Zig and Rust.
+- 😜 I’m interesting in Zig and Rust now.
 
 - 🤔 I’m going to improve Algorithms.
 
