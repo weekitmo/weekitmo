@@ -14,11 +14,9 @@ Hi, I'm Weekit Mo, a passionate Full Stack web developer and a freelance softwar
 
 - 🌱 I’m currently learning Unity in-depth.
 
-- 🌱 I’m currently interest in Zig and Rust.
+- 😜 I’m currently interest in Zig and Rust.
 
 - 🤔 I’m going to improve Algorithms.
-
-- 😜 I'm really interested in Unity3d right now.
 
 - 💬 Ask me about anything, I am happy to help.
 
