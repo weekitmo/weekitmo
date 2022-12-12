@@ -12,7 +12,9 @@ Hi, I'm Weekit Mo, a passionate Full Stack web developer and a freelance softwar
 
 - 👨 I’m currently working on ghzs.com.
 
-- 🌱 I’m currently learning Flutter in-depth.
+- 🌱 I’m currently learning Unity in-depth.
+
+- 🌱 I’m currently interest in Zig and Rust.
 
 - 🤔 I’m going to improve Algorithms.
 
