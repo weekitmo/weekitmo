@@ -1,71 +1,144 @@
-![Profile Views](https://komarev.com/ghpvc/?username=weekitmo)
+<p align="center">
+  <img src="./assets/profile-header.gif" width="100%" alt="Weekit Mo - Full Stack Engineer and AI Builder" />
+</p>
 
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<p align="center">
+  <img src="./assets/typing.svg" width="760" alt="Full Stack Engineer, AI Builder, and developer tools explorer" />
+</p>
 
-![](https://visitor-badge.glitch.me/badge?page_id=weekitmo.weekitmo) ![](https://img.shields.io/github/last-commit/weekitmo/weekitmo)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=weekitmo&style=flat-square&label=PROFILE+VIEWS&color=22c55e" alt="Weekit Mo profile views" />
+  <img src="https://img.shields.io/github/followers/weekitmo?style=flat-square&label=FOLLOWERS&color=22d3ee" alt="Weekit Mo GitHub followers" />
+  <img src="https://img.shields.io/github/last-commit/weekitmo/weekitmo?style=flat-square&label=PROFILE+UPDATED&color=64748b" alt="Weekit Mo profile last updated" />
+</p>
 
-<br />
+### About Me
 
-Hi, I'm Weekit Mo, a passionate Full Stack web developer and a freelance software engineer from China.
+```yaml
+name: Weekit Mo / 莫少
+role: Full Stack Engineer
+location: China
+building:
+  - Web and mobile products
+  - Game tech and developer tools
+ai_focus:
+  - MCP, RAG, and AI agents
+  - Browser and workflow automation
+currently_exploring: Rust, Unity, Godot
+```
 
-<img align="right" alt="GIF" src="https://github.com/weekitmo/weekitmo/blob/master/code.gif?raw=true" width="450" height="280" />
+I build products across the full stack, from web and mobile applications to game tooling and backend services. Recently, I have been extending that work into AI engineering: connecting models to real tools, making knowledge easier to retrieve, and turning repeatable workflows into reliable agent capabilities.
 
-- 👨 I’m currently working on ghzs.com.
+我喜欢把新技术做成真正能用的工具。现在主要在探索 AI Agent、MCP、RAG 与开发者工具，并继续深耕 Web、跨端和游戏技术。
 
-- 🌱 I’m currently learning Unity in-depth.
+### AI & Agent Engineering
 
-- 😜 I’m interesting in Zig and Rust now.
+| Focus | What I am building |
+| --- | --- |
+| **MCP & Agent Tools** | Tool integrations that let AI agents work with documentation, browsers, services, and development environments. |
+| **RAG & Knowledge Systems** | Practical ways to connect domain knowledge to models, including Godot documentation workflows. |
+| **Browser Automation** | CDP-based browsing, extraction, verification, and reusable agent workflows. |
+| **AI-assisted Development** | Using Codex, Claude Code, and Cursor to research, prototype, test, and ship faster. |
 
-- 🤔 I’m going to improve Algorithms.
+<p>
+  <img src="./assets/icons/mcp.svg" width="38" height="38" alt="Model Context Protocol" title="Model Context Protocol" />
+  &nbsp;
+  <img src="./assets/icons/openai.svg" width="38" height="38" alt="OpenAI and Codex" title="OpenAI and Codex" />
+  &nbsp;
+  <img src="./assets/icons/claude.svg" width="38" height="38" alt="Claude Code" title="Claude Code" />
+  &nbsp;
+  <img src="./assets/icons/cursor.svg" width="38" height="38" alt="Cursor" title="Cursor" />
+  &nbsp;
+  <img src="./assets/icons/python.svg" width="38" height="38" alt="Python" title="Python" />
+  &nbsp;
+  <img src="./assets/icons/fastapi.svg" width="38" height="38" alt="FastAPI" title="FastAPI" />
+</p>
 
-- 💬 Ask me about anything, I am happy to help.
+`MCP` · `RAG` · `AI Agents` · `LLM APIs` · `Prompt Engineering` · `Browser Automation`
 
-I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source. [![Gmail Badge](https://img.shields.io/badge/-121727393@qq.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:121727393@qq.com)](mailto:121727393@qq.com)
+### Tech Stack
 
-**Languages and Tools:**
+**Web & Backend**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/godot/godot.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<p>
+  <img src="./assets/icons/javascript.svg" width="38" height="38" alt="JavaScript" title="JavaScript" />
+  &nbsp;
+  <img src="./assets/icons/typescript.svg" width="38" height="38" alt="TypeScript" title="TypeScript" />
+  &nbsp;
+  <img src="./assets/icons/vue.svg" width="38" height="38" alt="Vue" title="Vue" />
+  &nbsp;
+  <img src="./assets/icons/react.svg" width="38" height="38" alt="React" title="React" />
+  &nbsp;
+  <img src="./assets/icons/nodejs.svg" width="38" height="38" alt="Node.js" title="Node.js" />
+  &nbsp;
+  <img src="./assets/icons/python.svg" width="38" height="38" alt="Python" title="Python" />
+  &nbsp;
+  <img src="./assets/icons/fastapi.svg" width="38" height="38" alt="FastAPI" title="FastAPI" />
+</p>
 
-<br />
+**Mobile, Game & Systems**
 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+<p>
+  <img src="./assets/icons/flutter.svg" width="38" height="38" alt="Flutter" title="Flutter" />
+  &nbsp;
+  <img src="./assets/icons/dart.svg" width="38" height="38" alt="Dart" title="Dart" />
+  &nbsp;
+  <img src="./assets/icons/unity.svg" width="38" height="38" alt="Unity" title="Unity" />
+  &nbsp;
+  <img src="./assets/icons/godot.svg" width="38" height="38" alt="Godot" title="Godot" />
+  &nbsp;
+  <img src="./assets/icons/dotnet.svg" width="38" height="38" alt="C# and .NET" title="C# and .NET" />
+  &nbsp;
+  <img src="./assets/icons/rust.svg" width="38" height="38" alt="Rust" title="Rust" />
+  &nbsp;
+  <img src="./assets/icons/zig.svg" width="38" height="38" alt="Zig" title="Zig" />
+</p>
 
+**Data & Delivery**
 
-<div>📈&nbsp;&nbsp;Weekit's GitHub Stats</div>
+<p>
+  <img src="./assets/icons/git.svg" width="38" height="38" alt="Git" title="Git" />
+  &nbsp;
+  <img src="./assets/icons/docker.svg" width="38" height="38" alt="Docker" title="Docker" />
+  &nbsp;
+  <img src="./assets/icons/redis.svg" width="38" height="38" alt="Redis" title="Redis" />
+  &nbsp;
+  <img src="./assets/icons/mongodb.svg" width="38" height="38" alt="MongoDB" title="MongoDB" />
+</p>
 
----
+### GitHub Activity
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=weekitmo&layout=compact&theme=material-palenight)
+<p align="center">
+  <img width="100%" src="./assets/generated/stats-card.svg" alt="Weekit Mo GitHub mission telemetry" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api?username=weekitmo&show_icons=true&theme=dracula&hide=stars,issues)
+<p align="center">
+  <img width="100%" src="./assets/generated/tech-stack.svg" alt="Weekit Mo language telemetry and focus sectors" />
+</p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=weekitmo)
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=weekitmo&bg_color=07111F&color=CBD5E1&line=22D3EE&point=22C55E&area=true&hide_border=true" alt="Weekit Mo contribution activity graph" />
+</p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/weekitmo/weekitmo/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/weekitmo/weekitmo/output/github-snake.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/weekitmo/weekitmo/output/github-snake-dark.svg" alt="Weekit Mo GitHub contribution snake" />
+  </picture>
+</p>
 
-<details>
-  <summary>Expand👆</summary>
-  <pre>
-  🤷‍♂️  In my spare time, I also like to watch anime and like to visit Bilibili's website
-  <br />
+### Connect
 
-  ![Dino](https://gitee.com/powerbyweekit/static-file/raw/master/dragbox.gif)
-  </pre>
-</details>
+- GitHub: [@weekitmo](https://github.com/weekitmo)
+- Email: [moweijie02@gmail.com](mailto:moweijie02@gmail.com)
+- Location: China
 
-![](https://github-profile-trophy.vercel.app/?username=weekitmo&theme=juicyfresh&no-bg=true&no-frame=true&column=4&%22)
-
-<br />
+<p align="center">
+  <sub>
+    Build useful things. Make them smarter with AI.
+    <br />
+    Galaxy telemetry powered by <a href="https://github.com/vinimlo/galaxy-profile">galaxy-profile</a>
+    · Contribution snake powered by <a href="https://github.com/Platane/snk">snk</a>
+  </sub>
+</p>

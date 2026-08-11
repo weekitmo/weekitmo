@@ -1,0 +1,64 @@
+name: Generate Galaxy Profile
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - "galaxy-profile.yml"
+      - ".github/workflows/generate-galaxy.yml"
+
+concurrency:
+  group: galaxy-profile
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    name: Refresh profile telemetry
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Check out pinned Galaxy Profile generator
+        env:
+          GENERATOR_COMMIT: "5d4be766b4f9b76da9b7c6d9172fa6ba705e9b75"
+        run: |
+          git init "$RUNNER_TEMP/galaxy-profile"
+          git -C "$RUNNER_TEMP/galaxy-profile" remote add origin https://github.com/vinimlo/galaxy-profile.git
+          git -C "$RUNNER_TEMP/galaxy-profile" fetch --depth=1 origin "$GENERATOR_COMMIT"
+          git -C "$RUNNER_TEMP/galaxy-profile" checkout --detach FETCH_HEAD
+
+      - name: Generate SVG assets
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python -m pip install -r "$RUNNER_TEMP/galaxy-profile/requirements.txt"
+          cp galaxy-profile.yml "$RUNNER_TEMP/galaxy-profile/config.yml"
+          (
+            cd "$RUNNER_TEMP/galaxy-profile"
+            python -m generator.main
+          )
+          mkdir -p assets/generated
+          cp "$RUNNER_TEMP/galaxy-profile/assets/generated/stats-card.svg" assets/generated/stats-card.svg
+          cp "$RUNNER_TEMP/galaxy-profile/assets/generated/tech-stack.svg" assets/generated/tech-stack.svg
+
+      - name: Commit refreshed assets
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/generated/stats-card.svg assets/generated/tech-stack.svg
+          if ! git diff --staged --quiet; then
+            git commit -m "chore: refresh profile telemetry [skip ci]"
+            git push
+          fi

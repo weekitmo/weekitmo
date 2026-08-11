@@ -1,0 +1,69 @@
+# Profile data consumed by .github/workflows/generate-galaxy.yml.
+username: weekitmo
+
+profile:
+  name: "Weekit Mo"
+  tagline: "Full Stack Engineer · AI Builder"
+  company: ""
+  location: "China"
+  bio: |
+    Building useful products across web, mobile, game tech, and AI.
+  philosophy: '"Build useful things. Make them smarter with AI."'
+
+social:
+  email: "moweijie02@gmail.com"
+
+galaxy_arms:
+  - name: "Web & Product"
+    color: "synapse_cyan"
+    items:
+      - "TypeScript"
+      - "Vue"
+      - "React"
+      - "Node.js"
+      - "Flutter"
+  - name: "AI & Agents"
+    color: "dendrite_violet"
+    items:
+      - "MCP"
+      - "RAG"
+      - "AI Agents"
+      - "LLM APIs"
+      - "Browser Automation"
+  - name: "Game & Systems"
+    color: "axon_amber"
+    items:
+      - "Unity"
+      - "Godot"
+      - "Rust"
+      - "C#"
+      - ".NET"
+
+projects: []
+
+theme:
+  void: "#07111F"
+  nebula: "#0F172A"
+  star_dust: "#1E293B"
+  synapse_cyan: "#22D3EE"
+  dendrite_violet: "#22C55E"
+  axon_amber: "#F59E0B"
+  text_bright: "#F8FAFC"
+  text_dim: "#CBD5E1"
+  text_faint: "#64748B"
+
+stats:
+  metrics:
+    - "commits"
+    - "stars"
+    - "prs"
+    - "issues"
+    - "repos"
+
+languages:
+  exclude:
+    - "HTML"
+    - "CSS"
+    - "Shell"
+    - "Makefile"
+  max_display: 8
