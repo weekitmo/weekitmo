@@ -12,7 +12,9 @@
   <img src="https://img.shields.io/github/last-commit/weekitmo/weekitmo?style=flat-square&label=PROFILE+UPDATED&color=64748b" alt="Weekit Mo profile last updated" />
 </p>
 
-### About Me
+<div align="center">
+
+### 🧑‍💻 About Me
 
 ```yaml
 name: Weekit Mo / 莫少
@@ -30,6 +32,10 @@ currently_exploring: Rust, Unity, Godot
 I build products across the full stack, from web and mobile applications to game tooling and backend services. Recently, I have been extending that work into AI engineering: connecting models to real tools, making knowledge easier to retrieve, and turning repeatable workflows into reliable agent capabilities.
 
 我喜欢把新技术做成真正能用的工具。现在主要在探索 AI Agent、MCP、RAG 与开发者工具，并继续深耕 Web、跨端和游戏技术。
+
+</div>
+
+<br />
 
 ### AI & Agent Engineering
 
