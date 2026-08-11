@@ -18,15 +18,12 @@
 
 ```yaml
 name: Weekit Mo / 莫少
-role: Full Stack Engineer
-location: China
-building:
-  - Web and mobile products
-  - Game tech and developer tools
-ai_focus:
-  - MCP, RAG, and AI agents
-  - Browser and workflow automation
-currently_exploring: Rust, Unity, Godot
+identity: 全栈工程师 / AI 应用构建者
+domains: 🌐 Web · 📱 Mobile · 🎮 Game Tech · 🤖 AI
+focus: MCP · RAG · AI Agents · Browser Automation
+exploring: Rust · Unity · Godot
+location: 🇨🇳 China
+motto: 用 AI 把想法做成真正可用的工具
 ```
 
 I build products across the full stack, from web and mobile applications to game tooling and backend services. Recently, I have been extending that work into AI engineering: connecting models to real tools, making knowledge easier to retrieve, and turning repeatable workflows into reliable agent capabilities.
