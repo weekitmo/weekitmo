@@ -74,6 +74,8 @@ I build products across the full stack, from web and mobile applications to game
   &nbsp;
   <img src="./assets/icons/nodejs.svg" width="38" height="38" alt="Node.js" title="Node.js" />
   &nbsp;
+  <img src="./assets/icons/go.svg" width="38" height="38" alt="Go" title="Go" />
+  &nbsp;
   <img src="./assets/icons/python.svg" width="38" height="38" alt="Python" title="Python" />
   &nbsp;
   <img src="./assets/icons/fastapi.svg" width="38" height="38" alt="FastAPI" title="FastAPI" />
@@ -105,6 +107,8 @@ I build products across the full stack, from web and mobile applications to game
   <img src="./assets/icons/docker.svg" width="38" height="38" alt="Docker" title="Docker" />
   &nbsp;
   <img src="./assets/icons/redis.svg" width="38" height="38" alt="Redis" title="Redis" />
+  &nbsp;
+  <img src="./assets/icons/postgresql.svg" width="38" height="38" alt="PostgreSQL" title="PostgreSQL" />
   &nbsp;
   <img src="./assets/icons/mongodb.svg" width="38" height="38" alt="MongoDB" title="MongoDB" />
 </p>

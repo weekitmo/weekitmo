@@ -14,13 +14,15 @@ social:
   email: "moweijie02@gmail.com"
 
 galaxy_arms:
-  - name: "Web & Product"
+  - name: "Web & Backend"
     color: "synapse_cyan"
     items:
       - "TypeScript"
       - "Vue"
       - "React"
       - "Node.js"
+      - "Go"
+      - "PostgreSQL"
       - "Flutter"
   - name: "AI & Agents"
     color: "dendrite_violet"
