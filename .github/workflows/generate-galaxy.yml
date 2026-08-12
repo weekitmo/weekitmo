@@ -50,6 +50,7 @@ jobs:
             python -m generator.main
           )
           mkdir -p assets/generated
+          cp "$RUNNER_TEMP/galaxy-profile/assets/generated/galaxy-header.svg" assets/generated/galaxy-header.svg
           cp "$RUNNER_TEMP/galaxy-profile/assets/generated/stats-card.svg" assets/generated/stats-card.svg
           cp "$RUNNER_TEMP/galaxy-profile/assets/generated/tech-stack.svg" assets/generated/tech-stack.svg
 
@@ -57,7 +58,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/generated/stats-card.svg assets/generated/tech-stack.svg
+          git add assets/generated/galaxy-header.svg assets/generated/stats-card.svg assets/generated/tech-stack.svg
           if ! git diff --staged --quiet; then
             git commit -m "chore: refresh profile telemetry [skip ci]"
             git push

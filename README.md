@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-header.gif" width="100%" alt="Weekit Mo - Full Stack Engineer and AI Builder" />
+  <img src="./assets/generated/galaxy-header.svg" width="100%" alt="Weekit Mo spiral galaxy profile header" />
 </p>
 
 <p align="center">
